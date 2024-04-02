@@ -1,4 +1,6 @@
-# Thunder Store - Fullstack Ecommerce Website
+# JVET - Flight Reservation system
+
+Build on Java Swing
 
 ## Accounts
 Admin:
