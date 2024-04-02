@@ -1,4 +1,4 @@
-# JVET - Flight Reservation system
+# VJET - Flight Reservation system
 
 Build on Java Swing
 
