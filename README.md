@@ -14,15 +14,15 @@ Password   : 123456
 ```
 ## Images 
 
-![datVe] (https://github.com/pletumy/vjet-airlines-booking-system/blob/main/anh/thongke.jpg)
+![datVe](/anh/thongke.jpg)
 
-![giaoDienAdmin] (https://github.com/pletumy/vjet-airlines-booking-system/blob/main/anh/thongke.jpg)
+![giaoDienAdmin](/anh/thongke.jpg)
 
-![danhSachKH] (https://github.com/pletumy/vjet-airlines-booking-system/blob/main/anh/quanLyKhachHang.jpg)
+![danhSachKH] (/anh/quanLyKhachHang.jpg)
 
-![thongKe] (https://github.com/pletumy/vjet-airlines-booking-system/blob/main/anh/thongke.jpg)
+![thongKe] (/anh/thongke.jpg)
 
-![chonChoNgoi] (https://github.com/pletumy/vjet-airlines-booking-system/blob/main/anh/thongke.jpg)
+![chonChoNgoi] (/anh/thongke.jpg)
 
 
 ### Setup
