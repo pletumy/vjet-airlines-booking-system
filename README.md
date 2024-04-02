@@ -14,15 +14,15 @@ Password   : 123456
 ```
 ## Images 
 
-![datVe](/anh/thongke.jpg)
+![datVe](/anh/datVe.jpg)
 
-![giaoDienAdmin](/anh/thongke.jpg)
+![giaoDienAdmin](/anh/giaoDienAdmin.jpg)
 
-![danhSachKH] (/anh/quanLyKhachHang.jpg)
+![danhSachKH](/anh/quanLyKhachHang.jpg)
 
-![thongKe] (/anh/thongke.jpg)
+![thongKe](/anh/thongke.jpg)
 
-![chonChoNgoi] (/anh/thongke.jpg)
+![chonChoNgoi](/anh/datChoNgoi.jpg)
 
 
 ### Setup
